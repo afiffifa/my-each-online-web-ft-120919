@@ -9,5 +9,3 @@ end
 
 my_each(list) {|i| puts "this #{i}s annoying"}
 end
-
-my_each(list) {|i| puts "I think #{i}s annoying"}
